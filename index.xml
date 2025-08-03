@@ -6,11 +6,23 @@
       <description>Last 10 notes on Gempaign</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>index</title>
+    <link>https://gempaign.vercel.app/</link>
+    <guid>https://gempaign.vercel.app/</guid>
+    <description><![CDATA[ Gempaign How to Explore Folders are simply used to declutter the space. Prefer navigating by tags by prefixing your search with # or by going to tags. ]]></description>
+    <pubDate>Sun, 03 Aug 2025 02:25:31 GMT</pubDate>
+  </item><item>
+    <title>Shardlands</title>
+    <link>https://gempaign.vercel.app/_places/Shardlands</link>
+    <guid>https://gempaign.vercel.app/_places/Shardlands</guid>
+    <description><![CDATA[ Shardlands The lands dotted with scars from the Commonization wars and left unclaimed as civilization concentrated from Industrialization &amp; Regulation. ]]></description>
+    <pubDate>Sun, 03 Aug 2025 02:22:05 GMT</pubDate>
+  </item><item>
     <title>Labradorite</title>
     <link>https://gempaign.vercel.app/_theory/Labradorite</link>
     <guid>https://gempaign.vercel.app/_theory/Labradorite</guid>
     <description><![CDATA[ Labradorite Intrinsic Power: morphing of matter Crystallization:. ]]></description>
-    <pubDate>Sun, 03 Aug 2025 02:03:47 GMT</pubDate>
+    <pubDate>Sun, 03 Aug 2025 02:16:04 GMT</pubDate>
   </item><item>
     <title>Sapphire</title>
     <link>https://gempaign.vercel.app/_theory/Sapphire</link>
@@ -36,12 +48,6 @@
     <description><![CDATA[ Ruby The Intrinsic Power of rubies grants enhanced reflexes allowing its users to move far before they register a threat. ]]></description>
     <pubDate>Sat, 02 Aug 2025 18:06:23 GMT</pubDate>
   </item><item>
-    <title>index</title>
-    <link>https://gempaign.vercel.app/</link>
-    <guid>https://gempaign.vercel.app/</guid>
-    <description><![CDATA[ Gempaign This is the collection of notes related to the Gempaign. ]]></description>
-    <pubDate>Sat, 02 Aug 2025 18:05:34 GMT</pubDate>
-  </item><item>
     <title>Prismatic Guard</title>
     <link>https://gempaign.vercel.app/_organizations/Prismatic-Guard</link>
     <guid>https://gempaign.vercel.app/_organizations/Prismatic-Guard</guid>
@@ -59,12 +65,6 @@
     <guid>https://gempaign.vercel.app/_theory/Resilience</guid>
     <description><![CDATA[ Resilience A measure of matter’s intrinsic resistance to Strain. Dependent on gem-type. Inorganic matter generally has a higher resilience. ]]></description>
     <pubDate>Fri, 01 Aug 2025 03:35:26 GMT</pubDate>
-  </item><item>
-    <title>Strain</title>
-    <link>https://gempaign.vercel.app/_theory/Strain</link>
-    <guid>https://gempaign.vercel.app/_theory/Strain</guid>
-    <description><![CDATA[ Strain The stress imparted on matter when Gem energy is being channeled. ]]></description>
-    <pubDate>Fri, 01 Aug 2025 03:32:48 GMT</pubDate>
   </item>
     </channel>
   </rss>
