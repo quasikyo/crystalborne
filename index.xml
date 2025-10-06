@@ -1,70 +1,70 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-      <title>Gempaign</title>
-      <link>https://gempaign.vercel.app</link>
-      <description>Last 10 notes on Gempaign</description>
+      <title>Crystalborne</title>
+      <link>https://crystalborne.vercel.app</link>
+      <description>Last 10 notes on Crystalborne</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>index</title>
+    <link>https://crystalborne.vercel.app/_gempaign/</link>
+    <guid>https://crystalborne.vercel.app/_gempaign/</guid>
+    <description><![CDATA[ Gempaign This section of notes is specifically related to a TTRPG campaign run within the Crystalborne setting. ]]></description>
+    <pubDate>Mon, 06 Oct 2025 02:39:44 GMT</pubDate>
+  </item><item>
+    <title>Gem Generation</title>
+    <link>https://crystalborne.vercel.app/_theory/Gem-Generation</link>
+    <guid>https://crystalborne.vercel.app/_theory/Gem-Generation</guid>
+    <description><![CDATA[ Gem Generation The Gems created through Crystallization are denoted as a subsequent generation. These gems are weaker than the previous generation. ]]></description>
+    <pubDate>Mon, 06 Oct 2025 02:34:13 GMT</pubDate>
+  </item><item>
+    <title>Resilience</title>
+    <link>https://crystalborne.vercel.app/_theory/Resilience</link>
+    <guid>https://crystalborne.vercel.app/_theory/Resilience</guid>
+    <description><![CDATA[ Resilience A measure of matter’s intrinsic resistance to Strain. Dependent on gem-type. Inorganic matter generally has a higher resilience. ]]></description>
+    <pubDate>Mon, 06 Oct 2025 02:14:44 GMT</pubDate>
+  </item><item>
+    <title>index</title>
+    <link>https://crystalborne.vercel.app/</link>
+    <guid>https://crystalborne.vercel.app/</guid>
+    <description><![CDATA[ Crystalborne How to Explore Folders are simply used to declutter the space. ]]></description>
+    <pubDate>Mon, 06 Oct 2025 00:05:26 GMT</pubDate>
+  </item><item>
     <title>Tinkerer&#039;s Guild</title>
-    <link>https://gempaign.vercel.app/_organizations/Tinkerer's-Guild</link>
-    <guid>https://gempaign.vercel.app/_organizations/Tinkerer's-Guild</guid>
+    <link>https://crystalborne.vercel.app/_organizations/Tinkerer's-Guild</link>
+    <guid>https://crystalborne.vercel.app/_organizations/Tinkerer's-Guild</guid>
     <description><![CDATA[ Tinkerer’s Guild A guild regulating the distribution and management of Gems within the Deepcrystal Enclave for the purpose of experimentation and development by Inscriptionists and Runeographer. ]]></description>
     <pubDate>Sun, 05 Oct 2025 06:38:08 GMT</pubDate>
   </item><item>
     <title>Deepcrystal Enclave</title>
-    <link>https://gempaign.vercel.app/_places/Deepcrystal-Enclave</link>
-    <guid>https://gempaign.vercel.app/_places/Deepcrystal-Enclave</guid>
+    <link>https://crystalborne.vercel.app/_places/Deepcrystal-Enclave</link>
+    <guid>https://crystalborne.vercel.app/_places/Deepcrystal-Enclave</guid>
     <description><![CDATA[ Deepcrystal Enclave A nation residing in the Scar that prides itself over its rapid research and mastery over Gems. ]]></description>
     <pubDate>Sun, 05 Oct 2025 06:37:43 GMT</pubDate>
   </item><item>
-    <title>index</title>
-    <link>https://gempaign.vercel.app/</link>
-    <guid>https://gempaign.vercel.app/</guid>
-    <description><![CDATA[ Gempaign How to Explore Folders are simply used to declutter the space. Prefer navigating by tags by prefixing your search with # or by going to tags. ]]></description>
-    <pubDate>Sun, 05 Oct 2025 05:56:26 GMT</pubDate>
-  </item><item>
     <title>Industrialization &amp; Regulation</title>
-    <link>https://gempaign.vercel.app/_history/Industrialization--and--Regulation</link>
-    <guid>https://gempaign.vercel.app/_history/Industrialization--and--Regulation</guid>
+    <link>https://crystalborne.vercel.app/_history/Industrialization--and--Regulation</link>
+    <guid>https://crystalborne.vercel.app/_history/Industrialization--and--Regulation</guid>
     <description><![CDATA[ Industrialization &amp; Regulation The wars from the times of Commonization began to die down as the consolidation of power worsened and the remaining participants could no longer sustain constant, escalating conflicts. ]]></description>
     <pubDate>Sun, 05 Oct 2025 04:29:36 GMT</pubDate>
   </item><item>
     <title>Aetheric Conclave</title>
-    <link>https://gempaign.vercel.app/_places/Aetheric-Conclave</link>
-    <guid>https://gempaign.vercel.app/_places/Aetheric-Conclave</guid>
+    <link>https://crystalborne.vercel.app/_places/Aetheric-Conclave</link>
+    <guid>https://crystalborne.vercel.app/_places/Aetheric-Conclave</guid>
     <description><![CDATA[ Aetheric Conclave A location once seen as a religious epicenter since Commonization but gained popularity and power during the Renaissance. ]]></description>
     <pubDate>Sun, 05 Oct 2025 03:34:22 GMT</pubDate>
   </item><item>
     <title>Trinity Kingdom</title>
-    <link>https://gempaign.vercel.app/_places/Trinity-Kingdom</link>
-    <guid>https://gempaign.vercel.app/_places/Trinity-Kingdom</guid>
+    <link>https://crystalborne.vercel.app/_places/Trinity-Kingdom</link>
+    <guid>https://crystalborne.vercel.app/_places/Trinity-Kingdom</guid>
     <description><![CDATA[ Trinity Kingdom A still-standing nation established before Commonization only grown more powerful from the investments of gem families. ]]></description>
     <pubDate>Sun, 05 Oct 2025 03:34:18 GMT</pubDate>
   </item><item>
     <title>Scar</title>
-    <link>https://gempaign.vercel.app/_places/Scar</link>
-    <guid>https://gempaign.vercel.app/_places/Scar</guid>
+    <link>https://crystalborne.vercel.app/_places/Scar</link>
+    <guid>https://crystalborne.vercel.app/_places/Scar</guid>
     <description><![CDATA[ Scar The Scar is a large ravine found in the Shardlands. ]]></description>
     <pubDate>Sun, 05 Oct 2025 03:32:40 GMT</pubDate>
-  </item><item>
-    <title>Amethyst</title>
-    <link>https://gempaign.vercel.app/_theory/Amethyst</link>
-    <guid>https://gempaign.vercel.app/_theory/Amethyst</guid>
-    <description><![CDATA[ Amethyst An amethyst’s Intrinsic Power grants its users foresight. ]]></description>
-    <pubDate>Sun, 05 Oct 2025 02:30:20 GMT</pubDate>
-  </item><item>
-    <title>Gem</title>
-    <link>https://gempaign.vercel.app/_theory/Gem</link>
-    <guid>https://gempaign.vercel.app/_theory/Gem</guid>
-    <description><![CDATA[ Gem A concentrated collection of energy capable of enhancing or empowering both organic and inorganic matter. ]]></description>
-    <pubDate>Sun, 05 Oct 2025 01:05:55 GMT</pubDate>
-  </item><item>
-    <title>Shardwalker</title>
-    <link>https://gempaign.vercel.app/_people/Shardwalker</link>
-    <guid>https://gempaign.vercel.app/_people/Shardwalker</guid>
-    <description><![CDATA[ Shardwalker An occupation focused on the discovery and extraction of Gems to replenish stockpiles and reserves. ]]></description>
-    <pubDate>Sun, 31 Aug 2025 04:43:33 GMT</pubDate>
   </item>
     </channel>
   </rss>
