@@ -1,9 +1,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
     <loc>https://crystalborne.vercel.app/_gempaign/Character-Template</loc>
-    <lastmod>2025-10-18T22:49:46.558Z</lastmod>
+    <lastmod>2025-10-23T06:08:42.024Z</lastmod>
   </url><url>
-    <loc>https://crystalborne.vercel.app/_gempaign/</loc>
-    <lastmod>2025-10-21T23:33:43.613Z</lastmod>
+    <loc>https://crystalborne.vercel.app/_gempaign/Intro</loc>
+    <lastmod>2025-10-23T05:44:38.091Z</lastmod>
+  </url><url>
+    <loc>https://crystalborne.vercel.app/_gempaign/Setting-Mechanics</loc>
+    <lastmod>2025-10-23T05:52:45.329Z</lastmod>
   </url><url>
     <loc>https://crystalborne.vercel.app/_history/Commonization</loc>
     <lastmod>2025-10-18T21:17:26.625Z</lastmod>
@@ -21,7 +24,7 @@
     <lastmod>2025-10-18T22:07:51.339Z</lastmod>
   </url><url>
     <loc>https://crystalborne.vercel.app/_history/Renaissance</loc>
-    <lastmod>2025-10-19T03:14:57.056Z</lastmod>
+    <lastmod>2025-10-23T06:05:21.599Z</lastmod>
   </url><url>
     <loc>https://crystalborne.vercel.app/_organizations/Prismatic-Guard</loc>
     <lastmod>2025-10-21T23:40:16.741Z</lastmod>
@@ -81,7 +84,7 @@
     <lastmod>2025-10-21T22:32:07.886Z</lastmod>
   </url><url>
     <loc>https://crystalborne.vercel.app/_theory/Emerald</loc>
-    <lastmod>2025-10-18T22:21:39.607Z</lastmod>
+    <lastmod>2025-10-23T05:47:39.085Z</lastmod>
   </url><url>
     <loc>https://crystalborne.vercel.app/_theory/Enhancement</loc>
     <lastmod>2025-10-18T21:17:27.121Z</lastmod>
@@ -93,7 +96,7 @@
     <lastmod>2025-10-18T21:17:27.157Z</lastmod>
   </url><url>
     <loc>https://crystalborne.vercel.app/_theory/Gem</loc>
-    <lastmod>2025-10-21T22:04:06.025Z</lastmod>
+    <lastmod>2025-10-23T06:04:37.928Z</lastmod>
   </url><url>
     <loc>https://crystalborne.vercel.app/_theory/Intrinsic-Power</loc>
     <lastmod>2025-10-18T21:18:32.253Z</lastmod>
@@ -105,10 +108,7 @@
     <lastmod>2025-10-18T21:17:27.242Z</lastmod>
   </url><url>
     <loc>https://crystalborne.vercel.app/_theory/Projection</loc>
-    <lastmod>2025-10-18T21:17:27.261Z</lastmod>
-  </url><url>
-    <loc>https://crystalborne.vercel.app/_theory/Refinement</loc>
-    <lastmod>2025-10-18T21:17:27.276Z</lastmod>
+    <lastmod>2025-10-23T06:03:55.786Z</lastmod>
   </url><url>
     <loc>https://crystalborne.vercel.app/_theory/Resilience</loc>
     <lastmod>2025-10-18T21:18:38.952Z</lastmod>
@@ -123,8 +123,8 @@
     <lastmod>2025-10-18T22:23:34.497Z</lastmod>
   </url><url>
     <loc>https://crystalborne.vercel.app/_theory/Strain</loc>
-    <lastmod>2025-10-18T21:17:27.342Z</lastmod>
+    <lastmod>2025-10-23T06:04:49.938Z</lastmod>
   </url><url>
     <loc>https://crystalborne.vercel.app/</loc>
-    <lastmod>2025-10-21T23:28:46.442Z</lastmod>
+    <lastmod>2025-10-23T05:45:00.974Z</lastmod>
   </url></urlset>
