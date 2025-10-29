@@ -6,11 +6,23 @@
       <description>Last 10 notes on Crystalborne</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Fulgurite</title>
+    <link>https://crystalborne.vercel.app/_theory/Fulgurite</link>
+    <guid>https://crystalborne.vercel.app/_theory/Fulgurite</guid>
+    <description><![CDATA[ Fulgurite Power A way to manipulating electricity but not produce it and is thus heavily used to monitor and regulate power through civilization. ]]></description>
+    <pubDate>Wed, 29 Oct 2025 02:12:26 GMT</pubDate>
+  </item><item>
+    <title>Quartz</title>
+    <link>https://crystalborne.vercel.app/_theory/Quartz</link>
+    <guid>https://crystalborne.vercel.app/_theory/Quartz</guid>
+    <description><![CDATA[ Quartz Power Heavily valued in the audio industry, Quartz is used in someway for the capture and playback of audio. ]]></description>
+    <pubDate>Wed, 29 Oct 2025 02:10:47 GMT</pubDate>
+  </item><item>
     <title>Setting Mechanics</title>
     <link>https://crystalborne.vercel.app/_gempaign/Setting-Mechanics</link>
     <guid>https://crystalborne.vercel.app/_gempaign/Setting-Mechanics</guid>
     <description><![CDATA[ Setting Mechanics Rolls (Core pg. 87) Aces (exploding dice) apply to any Trait, damage roll, and wild die. Raises apply on any Trait roll. ]]></description>
-    <pubDate>Fri, 24 Oct 2025 00:00:13 GMT</pubDate>
+    <pubDate>Wed, 29 Oct 2025 01:56:05 GMT</pubDate>
   </item><item>
     <title>Character Template</title>
     <link>https://crystalborne.vercel.app/_gempaign/Character-Template</link>
@@ -53,18 +65,6 @@
     <guid>https://crystalborne.vercel.app/</guid>
     <description><![CDATA[ Crystalborne A collection of notes exploring an original setting and documenting a campaign run within the setting. ]]></description>
     <pubDate>Thu, 23 Oct 2025 05:45:00 GMT</pubDate>
-  </item><item>
-    <title>Intro</title>
-    <link>https://crystalborne.vercel.app/_gempaign/Intro</link>
-    <guid>https://crystalborne.vercel.app/_gempaign/Intro</guid>
-    <description><![CDATA[ Intro This section of notes is specifically related to a TTRPG campaign run within the Crystalborne setting. ]]></description>
-    <pubDate>Thu, 23 Oct 2025 05:44:38 GMT</pubDate>
-  </item><item>
-    <title>Tinkerer&#039;s Guild</title>
-    <link>https://crystalborne.vercel.app/_organizations/Tinkerer's-Guild</link>
-    <guid>https://crystalborne.vercel.app/_organizations/Tinkerer's-Guild</guid>
-    <description><![CDATA[ Tinkerer’s Guild A guild regulating the distribution and management of Gems within the Deepcrystal Enclave for the purpose of experimentation and development by Inscriptionists and Runeographer. ]]></description>
-    <pubDate>Tue, 21 Oct 2025 23:40:35 GMT</pubDate>
   </item>
     </channel>
   </rss>
